@@ -18,4 +18,4 @@ limitations under the License.
 
 Please note: this is not a Google product
 
-##THIS TUTORIAL REQUIRES USB CABLE TO USE WITH ANDROID PHONE
+THIS TUTORIAL REQUIRES USB CABLE TO USE WITH ANDROID PHONE, will continue later on.
