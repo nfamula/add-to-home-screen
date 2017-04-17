@@ -17,3 +17,5 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 Please note: this is not a Google product
+
+##THIS TUTORIAL REQUIRES USB CABLE TO USE WITH ANDROID PHONE
